@@ -20,7 +20,7 @@ We have Java and other sophisticated languages, so why would it be necessary for
 
 Consider the role of draftsman. 
 
-![Image of a draftsman at a drafting table drawing engineering diagrams](assets/draftsman)
+![Image of a draftsman at a drafting table drawing engineering diagrams](assets/draftsman.png)
 
 Drafting required extensive training and skills; however, it is a narrow skill set that was completely displaced by image design tools like Photoshop, and CAD systems like AutoCAD and Solidworks becoming widely available. During WW2, tens of thousands of draftsmen supported the war effort designing all the components necessary to produce war materials, and the draftsman role was a prized and respected engineering job and drafting was considered a necessary engineering skill through the 1980’s.[^1]
 
