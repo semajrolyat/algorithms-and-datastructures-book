@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.1 (1:1.4.1+202503302257+93de688d07)"
+   sodipodi:docname="memory.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="0.24705882"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#ffffff"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1.3113356"
+     inkscape:cx="337.06094"
+     inkscape:cy="625.69797"
+     inkscape:window-width="1854"
+     inkscape:window-height="1131"
+     inkscape:window-x="66"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="77.29314,155.75001"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Code and Data segments"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
+       d="M -7.5656852,140.99999 H 63.769469"
+       id="path1" />
+    <path
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 63.769469,140.99999 H 77.100986"
+       id="path1-5" />
+    <path
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 63.769469,156.875 H 77.100986"
+       id="path1-5-5" />
+    <path
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
+       d="M -7.5656852,156.875 H 63.769469"
+       id="path1-1" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-opacity:1"
+       id="rect5"
+       width="48.020378"
+       height="15.87501"
+       x="4.0917029"
+       y="140.99998" />
+    <path
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
+       d="M 77.100986,140.99999 H 148.43617"
+       id="path1-4" />
+    <path
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
+       d="M 77.100986,156.875 H 148.43617"
+       id="path1-1-8" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-opacity:1"
+       id="rect5-1"
+       width="48.020378"
+       height="15.87501"
+       x="88.758362"
+       y="140.99998" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-opacity:1"
+       d="m 65.343007,135.96481 -3.424089,9.41625"
+       id="path5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-opacity:1"
+       d="m 65.343007,151.83982 -3.424089,9.41625"
+       id="path5-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-opacity:1"
+       d="m 79.10134,151.83982 -3.424089,9.41625"
+       id="path5-4-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-opacity:1"
+       d="m 79.10134,135.96481 -3.424089,9.41625"
+       id="path5-4-3-6" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="27.987591"
+       y="151.82886"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-weight:normal;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+         x="27.987591"
+         y="151.82886">Code</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="112.65425"
+       y="151.82886"
+       id="text5-0"><tspan
+         sodipodi:role="line"
+         id="tspan5-4"
+         style="font-weight:normal;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+         x="112.65425"
+         y="151.82886">Data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="113.73083"
+       y="130.92357"
+       id="text5-0-0"><tspan
+         sodipodi:role="line"
+         id="tspan5-4-7"
+         style="font-weight:normal;font-size:5.64444px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+         x="113.73083"
+         y="130.92357">All variables and </tspan><tspan
+         sodipodi:role="line"
+         style="font-weight:normal;font-size:5.64444px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+         x="113.73083"
+         y="137.97913"
+         id="tspan7">objects live here</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="29.064177"
+       y="130.92357"
+       id="text5-0-0-4"><tspan
+         sodipodi:role="line"
+         style="font-weight:normal;font-size:5.64444px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+         x="29.064177"
+         y="130.92357"
+         id="tspan7-0">Program is loaded </tspan><tspan
+         sodipodi:role="line"
+         style="font-weight:normal;font-size:5.64444px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+         x="29.064177"
+         y="137.97913"
+         id="tspan8">into memory here</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Data Segment"
+     style="display:none">
+    <g
+       id="g5"
+       transform="translate(5.5778847,-4.3633333e-5)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-opacity:1"
+         id="rect5-6"
+         width="29.927084"
+         height="15.87501"
+         x="62.300041"
+         y="188.62503" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="77.149284"
+         y="199.4539"
+         id="text5-9"><tspan
+           sodipodi:role="line"
+           id="tspan5-8"
+           style="font-weight:normal;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="77.149284"
+           y="199.4539">Global</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-opacity:1"
+         id="rect5-6-2"
+         width="29.927084"
+         height="15.87501"
+         x="92.227127"
+         y="188.62503" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="107.07637"
+         y="199.4539"
+         id="text5-9-7"><tspan
+           sodipodi:role="line"
+           id="tspan5-8-6"
+           style="font-weight:normal;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="107.07637"
+           y="199.4539">Stack</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-opacity:1"
+         id="rect5-6-2-5"
+         width="29.927084"
+         height="15.87501"
+         x="122.15421"
+         y="188.62503" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="137.00345"
+         y="199.4539"
+         id="text5-9-7-9"><tspan
+           sodipodi:role="line"
+           id="tspan5-8-6-9"
+           style="font-weight:normal;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none"
+           x="137.00345"
+           y="199.4539">Heap</tspan></text>
+    </g>
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 88.758359,156.875 67.877925,188.62499"
+       id="path6" />
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 136.77875,156.875 20.88043,31.74999"
+       id="path7" />
+  </g>
+</svg>

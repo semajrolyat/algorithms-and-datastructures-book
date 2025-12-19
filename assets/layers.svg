@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg7947"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   sodipodi:docname="layers.svg"
+   inkscape:export-filename="layers-policy_stackandqueue.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7949"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.9531793"
+     inkscape:cx="431.86"
+     inkscape:cy="667.88545"
+     inkscape:window-width="1854"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     showguides="true">
+    <sodipodi:guide
+       position="40.684328,135.48846"
+       orientation="0,-1"
+       id="guide4"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs7944" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="LayersLabel"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:center;text-decoration-color:#000000;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+       x="47.621311"
+       y="222.01724"
+       id="text9076"
+       inkscape:export-filename="abstraction-layers-only.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan9074"
+         style="font-style:italic;font-weight:normal;stroke-width:0.2"
+         x="47.621311"
+         y="222.01724">layer</tspan></text>
+    <g
+       inkscape:groupmode="layer"
+       id="g9080"
+       inkscape:label="LayersLabelSeparator"
+       style="display:inline"
+       transform="matrix(0.25593178,0,0,-0.32427511,24.690911,251.68221)">
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.694242;stroke-dasharray:8.3309, 8.3309;stroke-dashoffset:0;stop-color:#000000"
+         d="M 33.183666,190.1 H 184.42665"
+         id="path9078" />
+    </g>
+  </g>
+  <g
+     inkscape:label="Algorithm"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-decoration-color:#000000;fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stop-color:#000000"
+       x="33.075623"
+       y="202.8916"
+       id="text8070"
+       inkscape:export-filename="graphs/graph-layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan8068"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';fill:#000000;fill-opacity:1;stroke-width:0.1;stroke-dasharray:none"
+         x="33.075623"
+         y="202.8916">Implementation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-decoration-color:#000000;fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stop-color:#000000"
+       x="33.075623"
+       y="182.8916"
+       id="text8070-5"><tspan
+         sodipodi:role="line"
+         id="tspan8068-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';fill:#000000;fill-opacity:1;stroke-width:0.1;stroke-dasharray:none"
+         x="33.075623"
+         y="182.8916">Abstraction</tspan></text>
+  </g>
+  <g
+     inkscape:label="Basic Layers copy"
+     inkscape:groupmode="layer"
+     id="g6"
+     style="display:none" />
+  <g
+     inkscape:label="Policy Layer"
+     inkscape:groupmode="layer"
+     id="g8471"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:normal;font-family:Amiri;-inkscape-font-specification:Amiri;text-decoration-color:#000000;letter-spacing:0px;fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stop-color:#000000"
+       x="33.075623"
+       y="162.8916"
+       id="text8465"><tspan
+         sodipodi:role="line"
+         id="tspan8463"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';fill:#000000;fill-opacity:1;stroke-width:0.1;stroke-dasharray:none"
+         x="33.075623"
+         y="162.8916">Policy</tspan></text>
+  </g>
+  <g
+     inkscape:label="Other Layers"
+     inkscape:groupmode="layer"
+     id="g8552"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-decoration-color:#000000;fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stop-color:#000000"
+       x="33.075623"
+       y="142.8916"
+       id="text8550"
+       inkscape:label="text8469"><tspan
+         sodipodi:role="line"
+         id="tspan8548"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';fill:#000000;fill-opacity:1;stroke-width:0.1;stroke-dasharray:none"
+         x="33.075623"
+         y="142.8916">Other Layers</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="LR Separator - Short"
+     style="display:inline">
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+       d="M 82.228,209.87458 V 172.53724"
+       id="path8982-9" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g8984"
+     inkscape:label="LR Separator - Long"
+     style="display:inline">
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+       d="M 82.228454,209.87458 V 148.5"
+       id="path8982" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Abs-Imp Separator"
+     style="display:inline">
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:2.4, 2.4;stroke-dashoffset:0;stop-color:#000000"
+       d="M 33.183666,190.1 H 184.42665"
+       id="path8917" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Policy-Abs Separator"
+     style="display:inline">
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:2.4, 2.4;stroke-dashoffset:0;stop-color:#000000"
+       d="M 33.183666,170.1 H 184.42665"
+       id="path8917-6" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="List"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-decoration-color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+       x="99.771637"
+       y="202.8916"
+       id="text8070-7"><tspan
+         sodipodi:role="line"
+         id="tspan8068-0"
+         style="font-size:4.93889px;stroke-width:0.5"
+         x="99.771637"
+         y="202.8916">Linked List</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-decoration-color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+       x="149.98331"
+       y="202.8916"
+       id="text8070-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan8068-0-3"
+         style="font-size:4.93889px;stroke-width:0.5"
+         x="149.98331"
+         y="202.8916">Array List</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-decoration-color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+       x="139.03792"
+       y="182.8916"
+       id="text8070-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan8068-6-0"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;stroke-width:0.5"
+         x="139.03792"
+         y="182.8916">List</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g287"
+     inkscape:label="Graph"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+       x="115.66495"
+       y="202.8916"
+       id="text277"><tspan
+         sodipodi:role="line"
+         id="tspan275"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.5"
+         x="115.66495"
+         y="202.8916">Adjacency Matrix</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.5"
+         x="115.66495"
+         y="208.18326"
+         id="tspan537">(2D Array int?)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+       x="164.52831"
+       y="202.8916"
+       id="text281"><tspan
+         sodipodi:role="line"
+         id="tspan279"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.5"
+         x="164.52831"
+         y="202.8916">Adjacency List</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.5"
+         x="164.52831"
+         y="208.18326"
+         id="tspan539">(Array of </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.5"
+         x="164.52831"
+         y="213.47493"
+         id="tspan541">Linked Lists)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-align:center;text-decoration-color:#000000;text-anchor:middle;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+       x="134.2262"
+       y="182.8916"
+       id="text285"
+       inkscape:export-filename="graphs/graph-layers.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan283"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;stroke-width:0.5"
+         x="134.2262"
+         y="182.8916">Graph</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g8453"
+     inkscape:label="Map"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-decoration-color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+       x="113.39446"
+       y="202.8916"
+       id="text8443"><tspan
+         sodipodi:role="line"
+         id="tspan8441"
+         style="text-align:center;text-anchor:middle;stroke-width:0.5"
+         x="113.39446"
+         y="202.8916">Binary Tree</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-decoration-color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+       x="151.04163"
+       y="202.8916"
+       id="text8447"><tspan
+         sodipodi:role="line"
+         id="tspan8445"
+         style="stroke-width:0.5"
+         x="151.04163"
+         y="202.8916">Hash Table</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-decoration-color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+       x="139.03792"
+       y="182.8916"
+       id="text8451"><tspan
+         sodipodi:role="line"
+         id="tspan8449"
+         style="text-align:center;text-anchor:middle;stroke-width:0.5"
+         x="139.03792"
+         y="182.8916">Map</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g3"
+     inkscape:label="binary search tree"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-decoration-color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+       x="101.22367"
+       y="202.8916"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="text-align:center;text-anchor:middle;stroke-width:0.5"
+         x="101.22367"
+         y="202.8916">Array</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-decoration-color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+       x="124.58359"
+       y="202.8916"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="stroke-width:0.5"
+         x="124.58359"
+         y="202.8916">AVL Tree</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-decoration-color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+       x="153.68742"
+       y="202.8916"
+       id="text2-2"><tspan
+         sodipodi:role="line"
+         id="tspan2-0"
+         style="stroke-width:0.5"
+         x="153.68742"
+         y="202.8916">Red-Black Tree</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-decoration-color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+       x="139.03792"
+       y="182.8916"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="text-align:center;text-anchor:middle;stroke-width:0.5"
+         x="139.03792"
+         y="182.8916">Binary Search Tree (BST)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Stack and Queue"
+     style="display:inline">
+    <g
+       id="g5"
+       transform="translate(0,-2.9675613)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-decoration-color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+         x="113.39446"
+         y="162.8916"
+         id="text8070-7-6"><tspan
+           sodipodi:role="line"
+           id="tspan8068-0-2"
+           style="text-align:center;text-anchor:middle;stroke-width:0.5"
+           x="113.39446"
+           y="162.8916">Stack</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-decoration-color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+         x="162.45044"
+         y="162.8916"
+         id="text8070-7-9-6"><tspan
+           sodipodi:role="line"
+           id="tspan8068-0-3-1"
+           style="text-align:center;text-anchor:middle;stroke-width:0.5"
+           x="162.45044"
+           y="162.8916">Queue</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-decoration-color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+         x="113.39446"
+         y="168.18327"
+         id="text8070-7-6-3"><tspan
+           sodipodi:role="line"
+           id="tspan8068-0-2-6"
+           style="text-align:center;text-anchor:middle;stroke-width:0.5"
+           x="113.39446"
+           y="168.18327">(LIFO)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-decoration-color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+         x="162.45044"
+         y="168.18327"
+         id="text8070-7-9-6-7"><tspan
+           sodipodi:role="line"
+           id="tspan8068-0-3-1-5"
+           style="text-align:center;text-anchor:middle;stroke-width:0.5"
+           x="162.45044"
+           y="168.18327">(FIFO)</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:label="Policy Layer"
+     inkscape:groupmode="layer"
+     id="g4"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:normal;font-family:Amiri;-inkscape-font-specification:Amiri;text-decoration-color:#000000;letter-spacing:0px;fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stop-color:#000000"
+       x="51.947815"
+       y="162.56987"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';fill:#000000;fill-opacity:1;stroke-width:0.1;stroke-dasharray:none"
+         x="51.947815"
+         y="162.56987">(Add/Remove)</tspan></text>
+  </g>
+</svg>
